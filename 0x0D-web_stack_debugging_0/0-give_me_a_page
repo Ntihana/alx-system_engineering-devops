@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-sudo service apache2 start
+# fixing an apache server in a container
+service apache2 start
